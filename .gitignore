@@ -1,8 +1,7 @@
 tmp/
 ignore/
 catched/
-catched/.DS_Store
-catched/Thumbs.db
- img/.DS_Store
- img/Thumbs.db
- 
+*.DS._Store
+Thumbs.db
+
+
